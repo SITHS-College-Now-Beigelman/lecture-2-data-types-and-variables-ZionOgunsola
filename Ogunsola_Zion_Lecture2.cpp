@@ -7,6 +7,7 @@
 #include <string> //includes string
 
 int main() //Begins code
+
 {
 int Ainteger = 4 <<endl; //Defines int as variable Ainteger which is equal to 4
 float Afloatdecimal = 4.5 <<endl; //Defines float as variable Afloatdecimal which is equal to 4.5
